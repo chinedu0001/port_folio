@@ -1,0 +1,118 @@
+.header2{
+    text-align: center;
+    padding-top: 10px;
+}
+header{
+    background-image: url("IMG-20231206-WA0097.jpg");
+    padding-bottom: 300px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+
+}
+.main2{
+    text-align: center;
+    margin: 50px;
+
+}
+
+.main3{
+    padding: 35px;
+    margin: 40px;
+    background-color: lightgray;
+    font-size: x-large;
+}
+
+.main4 h1{
+    text-align: center;
+    margin: 50px;
+}
+
+
+.main6{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    font-size: large
+}
+
+.main4 {
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 200px;
+}
+.main8{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+}
+.main9{
+    padding: 20px;
+    font-size: large;
+}
+.list{
+    margin-top: 100px;
+}
+
+.list li{
+    padding: 30px;
+    background-color: white;
+    
+
+}
+
+.main12 h2{
+    text-align: center;
+    margin-top: 100px;
+}
+.main13{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 120px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+}
+.main14{
+    background-color: whitesmoke;
+    padding: 50px;
+}
+.t2{
+    text-align: center;
+    margin-top: 50px;  
+}
+.t3{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+    padding: 50px;
+}
+.t1{
+    background-color: whitesmoke;
+    margin: 100px;
+    padding-top: 50px;
+    border: none;
+    border-radius: 130px;
+  
+    
+}
+.footer1{
+    text-align: center;
+    margin-top: 100px;
+    padding: 100px;
+    
+}
+footer{
+    background-color: black;
+}
+.footer1 p{
+    color: white;
+}
+
+body {
+    box-sizing: border-box;
+}
